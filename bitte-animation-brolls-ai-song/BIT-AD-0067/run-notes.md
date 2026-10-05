@@ -8,3 +8,5 @@
 - Song: 90s R&B pop take 2, asset 6ac382609d86a40fdf9362a7 (79.54 s), trimmed at 2.05 s.
 - Storyboard BIT-AD-0067: creative 6ac383b59d86a40fdf9362ab. Captions fixed to the script (rev 2). Animatic of 38 scenes (rev 4), 77.49 s.
 - Credits after the storyboard sheets: 1738.18.
+- Clips on the Storyboard (rev 10): 7 Seedance 2.0 Fast clips, muted, playback rates 0.97 to 1.06; length 77.49 s; only the song unmuted; captions intact.
+- Credits after the clips: 1336.18 (667 used so far).
