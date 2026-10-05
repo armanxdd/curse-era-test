@@ -1,0 +1,45 @@
+{
+  "brand": "bitte",
+  "root": "/tmp/claude-0/-home-user-curse-era-test/e2777cc2-6f15-5c94-aee1-6252a88011f5/scratchpad/download/bitte/⚙️ Production Pipeline",
+  "brand_kit": "/tmp/claude-0/-home-user-curse-era-test/e2777cc2-6f15-5c94-aee1-6252a88011f5/scratchpad/download/bitte/⚙️ Production Pipeline/🧰 Brand Kit",
+  "tasks": [
+    "BIT-AD-0067"
+  ],
+  "boards": [
+    "bitte/products",
+    "bitte/w41-references"
+  ],
+  "files": [
+    {
+      "kind": "products",
+      "task": null,
+      "local_path": "/tmp/claude-0/-home-user-curse-era-test/e2777cc2-6f15-5c94-aee1-6252a88011f5/scratchpad/download/bitte/⚙️ Production Pipeline/🧰 Brand Kit/Products/Bitte Soursop Bitter Shots - bottle.jpg",
+      "board": "bitte/products",
+      "file_name": "bitte-soursop-bitter-shots-bottle.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 51909,
+      "sha256": "d746550c3aab3859b60c960aca06813d2bad64438adf985cb36ae49d5fc6a357"
+    },
+    {
+      "kind": "products",
+      "task": null,
+      "local_path": "/tmp/claude-0/-home-user-curse-era-test/e2777cc2-6f15-5c94-aee1-6252a88011f5/scratchpad/download/bitte/⚙️ Production Pipeline/🧰 Brand Kit/Products/Bitte shot - liquid colour only (bottle must be white).jpg",
+      "board": "bitte/products",
+      "file_name": "bitte-shot-liquid-colour-only-bottle-must-be-white.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 190443,
+      "sha256": "1e30c10283fa8edb1b44447007f3ff5d2b50dea18c1abcf81f08c2a8a14f95fa"
+    },
+    {
+      "kind": "reference",
+      "task": "BIT-AD-0067",
+      "local_path": "/tmp/claude-0/-home-user-curse-era-test/e2777cc2-6f15-5c94-aee1-6252a88011f5/scratchpad/download/bitte/⚙️ Production Pipeline/📥 Jobs/BIT-AD-0067/📥 Brief/BIT-AD-0067_reference.mp4",
+      "board": "bitte/w41-references",
+      "file_name": "BIT-AD-0067_reference.mp4",
+      "content_type": "video/mp4",
+      "size_bytes": 18398100,
+      "sha256": "1384b05d72a93403151b6d7acb3f805295c488f50d2c39888a08fefc1d26fc83"
+    }
+  ],
+  "notes": []
+}

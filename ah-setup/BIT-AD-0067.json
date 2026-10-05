@@ -1,0 +1,33 @@
+{
+  "task_id": "BIT-AD-0067",
+  "brand": "bitte",
+  "updated": "2026-10-05",
+  "assets": [
+    {
+      "kind": "reference",
+      "file_name": "BIT-AD-0067_reference.mp4",
+      "board": "bitte/w41-references",
+      "content_type": "video/mp4",
+      "board_id": "6ac37c689d86a40fdf93624c",
+      "asset_id": "6ac37c729d86a40fdf936252"
+    }
+  ],
+  "brand_kit": [
+    {
+      "kind": "products",
+      "file_name": "bitte-soursop-bitter-shots-bottle.jpg",
+      "board": "bitte/products",
+      "content_type": "image/jpeg",
+      "board_id": "6ac37c679d86a40fdf93624b",
+      "asset_id": "6ac37c719d86a40fdf93624e"
+    },
+    {
+      "kind": "products",
+      "file_name": "bitte-shot-liquid-colour-only-bottle-must-be-white.jpg",
+      "board": "bitte/products",
+      "content_type": "image/jpeg",
+      "board_id": "6ac37c679d86a40fdf93624b",
+      "asset_id": "6ac37c719d86a40fdf936250"
+    }
+  ]
+}
