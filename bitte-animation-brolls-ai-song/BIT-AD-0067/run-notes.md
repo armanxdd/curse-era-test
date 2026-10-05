@@ -5,3 +5,6 @@
 - Reference breakdown approved by the user, 2026-10-05.
 - AdvertHunt session BIT-AD-0067: session 6ac37ecc9d86a40fdf936265, project 6ac37ecc9d86a40fdf936264.
 - Credits: 2003 before the run; 1892.18 after the 7 character sheets.
+- Song: 90s R&B pop take 2, asset 6ac382609d86a40fdf9362a7 (79.54 s), trimmed at 2.05 s.
+- Storyboard BIT-AD-0067: creative 6ac383b59d86a40fdf9362ab. Captions fixed to the script (rev 2). Animatic of 38 scenes (rev 4), 77.49 s.
+- Credits after the storyboard sheets: 1738.18.
