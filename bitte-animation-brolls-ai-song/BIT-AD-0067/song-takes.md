@@ -14,3 +14,14 @@ All four takes stop before the Outro. The generator fit the song into about 66 s
 Brand misheard in every take ("Bitte" as "bitter"): expected, not a problem.
 
 Word timings were read in AdvertHunt (`adverthunt_get_asset`, include words); no `.ah-words.tsv` is saved for these takes because none is usable.
+
+## Round 2 (2026-10-05): `music.durationSeconds` 78, same lyrics, style adds "sing every lyric line through to the outro", 20 credits
+
+| Card · take | Asset id | Length | Last stored word | Full lyrics? | Spots to listen (stored words vs script) |
+|---|---|---|---|---|---|
+| New jack swing (3rd card) · take 1 | 6ac382609d86a40fdf9362a1 | 77.21 s | "away" 74.54 (end of Chorus 2) | no, the Outro is missing | 43.4 Verse 3 line 1 garbled; 52.2 "ginger, ginger"; 67.8 "one big" for "one thing" |
+| New jack swing (3rd card) · take 2 | 6ac382609d86a40fdf9362a2 | 77.98 s | "away" 72.74 (end of Chorus 2) | no, the Outro is missing | 3.7 "42" drops "took"; 18.2 "one big" for "one thing"; 26.0 "All the sour sauce" for "Other soursops" |
+| 90s R&B pop (4th card) · take 1 | 6ac382609d86a40fdf9362a6 | 78.46 s | "away" 78.30, 0.16 s before the end | no: cut off, the Outro is missing | 0 to 8.2 ad-lib intro ("Hey yeah…"); 15.0 "fruit" for "fupa"; 41.1 "these simps" for "each sip" |
+| **90s R&B pop (4th card) · take 2** | **6ac382609d86a40fdf9362a7** | **79.54 s** | **"around" 79.08 (end of the Outro)** | **yes** | 3.7 "42" for "forty took"; 33.8 to 35.2 "love it, sit here, here's" for "love each sip, here's" (an extra word?); 41.0 to 43.9 Verse 3 line 1 ("Sour sipping alo some yogurt" for "Soursop and aloe soothe your gut"); 62.0 to 63.5 "Less than two" for "less fatigue"; 65.0 "one thing, one thing" repeat; 77.2 Outro "link's below" stored as "links below" (fine) |
+
+Brand misheard as "bitter" / "sour, sour, bitter" in every take: expected, not a problem.
