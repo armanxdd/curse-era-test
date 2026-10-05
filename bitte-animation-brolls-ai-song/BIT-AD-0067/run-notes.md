@@ -2,3 +2,4 @@
 
 - Telegram handle: @ArmanOsian. Export name: BIT-AD-0067_@ArmanOsian.mp4 (revisions BIT-AD-0067_@ArmanOsian_v2.mp4).
 - Workspace: my-workspace-6ac374c59d86a40fdf936218. Credits before the run: 2003 (6 spent on uploads).
+- Reference breakdown approved by the user, 2026-10-05.

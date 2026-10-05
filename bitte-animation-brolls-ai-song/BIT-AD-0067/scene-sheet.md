@@ -1,4 +1,4 @@
-# Scene sheet · BIT-AD-0067 (proposal, not approved yet)
+# Scene sheet · BIT-AD-0067 (approved by the user, 2026-10-05)
 
 Lead: Mama Zuri, an orc mom over 40 (Black or mixed ethnicity), the Orc style. World: the jungle village from `reference-breakdown.md`.
 Body states: **before** row 1 → **changing** row 1 → **slimming** rows 2 to 6 → **lean** from row 7 (the gut is cleaned out in row 6).
@@ -29,6 +29,6 @@ Competitor (invented, the same in every scene): **SOURLEAF Soursop Bitters**, a 
 
 **Words on screen:** row 15 "95%"; row 19 five stars and "SALE". No other text.
 
-**Choices to confirm:**
+**Choices (approved as proposed):**
 - **Row 12, before and after.** The brief asks to show the before and the after again on "A flatter stomach". Vlad's rules (2026-10-04) win over the brief: the body never goes back and a reflection is always identical. So row 12 shows only the lean body, with an identical reflection. Alternative: a hand-carved wooden "before" figurine of her beside her, which stays within the rules.
 - **Row 18, the second "flush" line.** The toilet and gut flush play once, in row 6. Row 18 flushes the junk food over the waterfall rather than repeating the toilet.
