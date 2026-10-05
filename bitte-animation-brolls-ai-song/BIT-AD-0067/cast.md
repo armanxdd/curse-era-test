@@ -33,10 +33,10 @@ One character sheet per character and state: 7 sheets on GPT Image 2.5 (`gpt-ima
 ## Approved sheets
 | # | Character | Asset id |
 |---|---|---|
-| 1 | Lead, before | 6ac37ee59d86a40fdf936271 (sheet made, awaiting review) |
-| 2 | Lead, slimming | 6ac37f149d86a40fdf936282 (sheet made, awaiting review) |
-| 3 | Lead, lean | 6ac37f3c9d86a40fdf936286 (sheet made, awaiting review) |
-| 4 | Auntie Nala | 6ac37ee69d86a40fdf936274 (sheet made, awaiting review) |
-| 5 | Uncle Baako | 6ac37ee69d86a40fdf936277 (sheet made, awaiting review) |
-| 6 | Kofi | 6ac37ee69d86a40fdf93627a (sheet made, awaiting review) |
-| 7 | Imani | 6ac37ee69d86a40fdf93627d (sheet made, awaiting review) |
+| 1 | Lead, before | 6ac37ee59d86a40fdf936271 (approved 2026-10-05) |
+| 2 | Lead, slimming | 6ac37f149d86a40fdf936282 (approved 2026-10-05) |
+| 3 | Lead, lean | 6ac37f3c9d86a40fdf936286 (approved 2026-10-05) |
+| 4 | Auntie Nala | 6ac37ee69d86a40fdf936274 (approved 2026-10-05) |
+| 5 | Uncle Baako | 6ac37ee69d86a40fdf936277 (approved 2026-10-05) |
+| 6 | Kofi | 6ac37ee69d86a40fdf93627a (approved 2026-10-05) |
+| 7 | Imani | 6ac37ee69d86a40fdf93627d (approved 2026-10-05) |
