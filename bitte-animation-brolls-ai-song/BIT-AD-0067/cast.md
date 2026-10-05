@@ -1,4 +1,4 @@
-# Cast · BIT-AD-0067 (proposal, not approved yet)
+# Cast · BIT-AD-0067 (approved by the user, 2026-10-05)
 
 ## The story
 Mama Zuri, an orc mom over 40 in a lush jungle village, is fed up with her big belly and FUPA. By the waterfall she takes her first Bitte shot, and golden magic starts melting the belly away on screen. Over the week the belly keeps shrinking while she still eats ice cream and chocolate, whatever the village elders say. One Bitte shot a day flushes the junk out of her gut: from then on she is lean, flat-stomached and full of energy, and she loves the tropical taste, unlike the bitter SOURLEAF drops. By the end the whole village holds Bitte, and she grabs one of the last bottles and points to the link.
@@ -33,3 +33,10 @@ One character sheet per character and state: 7 sheets on GPT Image 2.5 (`gpt-ima
 ## Approved sheets
 | # | Character | Asset id |
 |---|---|---|
+| 1 | Lead, before | 6ac37ee59d86a40fdf936271 (sheet made, awaiting review) |
+| 2 | Lead, slimming | 6ac37f149d86a40fdf936282 (sheet made, awaiting review) |
+| 3 | Lead, lean | 6ac37f3c9d86a40fdf936286 (sheet made, awaiting review) |
+| 4 | Auntie Nala | 6ac37ee69d86a40fdf936274 (sheet made, awaiting review) |
+| 5 | Uncle Baako | 6ac37ee69d86a40fdf936277 (sheet made, awaiting review) |
+| 6 | Kofi | 6ac37ee69d86a40fdf93627a (sheet made, awaiting review) |
+| 7 | Imani | 6ac37ee69d86a40fdf93627d (sheet made, awaiting review) |
