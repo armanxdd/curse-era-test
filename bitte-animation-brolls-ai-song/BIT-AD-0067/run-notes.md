@@ -10,3 +10,6 @@
 - Credits after the storyboard sheets: 1738.18.
 - Clips on the Storyboard (rev 10): 7 Seedance 2.0 Fast clips, muted, playback rates 0.97 to 1.06; length 77.49 s; only the song unmuted; captions intact.
 - Credits after the clips: 1336.18 (667 used so far).
+- Export (2026-10-05): revision 24 (caption style picked by the user), job 6ac38c322b6e8379bf421716, completed. Download URL: https://r2-staging.adverthunt.com/exports/6ac374c59d86a40fdf936218/6ac37ecc9d86a40fdf936264/6ac383b59d86a40fdf9362ab/6ac38c322b6e8379bf421716.mp4
+  Not saved by Claude: the session's network policy blocks r2-staging.adverthunt.com, and the task's For Approval folder is not on the connected Drive. The user saves it as BIT-AD-0067_@ArmanOsian.mp4 into 🔄 For Approval.
+- Revision Log line: "Credits used: 667 (2003 → 1336.18). Storyboard: https://staging.adverthunt.com/projects/6ac37ecc9d86a40fdf936264?creative=6ac383b59d86a40fdf9362ab"
